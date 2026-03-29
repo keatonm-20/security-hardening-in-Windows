@@ -34,11 +34,12 @@ Checking firewall rules and testing network connection<br><br>
 ---
 ---
 ### Password Strengthening
-Password strengthening and other password changes.
+Password strengthening and other password changes.<br><br>
 ![Dashboard Screenshot](images/img15.png)
-![Dashboard Screenshot](images/img16.png)
+![Dashboard Screenshot](images/img16.png)<br><br><br>
 
 #### Before changes
-![Dashboard Screenshot](images/img17.png)
+![Dashboard Screenshot](images/img17.png)<br><br>
+
 #### After changes
 ![Dashboard Screenshot](images/img18.png)

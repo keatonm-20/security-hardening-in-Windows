@@ -26,15 +26,19 @@ Installing up dates in WSUS.<br><br>
 
 ---
 ---
-
+### Checking Firewall Rules
+Checking firewall rules and testing network connection<br><br>
 ![Dashboard Screenshot](images/img13.png)
-![Dashboard Screenshot](images/img14.png)
+![Dashboard Screenshot](images/img14.png)<br><br><br>
 
 ---
 ---
-
+### Password Strengthening
+Password strengthening and other password changes.
 ![Dashboard Screenshot](images/img15.png)
 ![Dashboard Screenshot](images/img16.png)
-![Dashboard Screenshot](images/img17.png)
 
+#### Before changes
+![Dashboard Screenshot](images/img17.png)
+#### After changes
 ![Dashboard Screenshot](images/img18.png)

@@ -11,8 +11,6 @@
 ### Installing Windows Server Update Services (WSUS)<br><br>
 ![Dashboard Screenshot](images/img3.png)
 ![Dashboard Screenshot](images/img4.png)
-![Dashboard Screenshot](images/img5.png)
-![Dashboard Screenshot](images/img6.png)
 ![Dashboard Screenshot](images/img7.png)<br><br><br>
 
 ---
